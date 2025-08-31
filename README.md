@@ -18,7 +18,6 @@ The target of this project is the **second-stage spur gear** in the gearbox. Thi
 
 * You should replace this gear if:
     * The teeth on the gear are visibly worn down or chipped.
-    * The motor produces a "grinding" sound during operation.
     * The telescope's mount slips or fails to track accurately.
 
 
