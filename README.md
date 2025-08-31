@@ -12,6 +12,16 @@ This design is released under the **[TAPR Open Hardware License](https://tapr.or
 
 ---
 
+### Identifying the Problem Gear
+
+The target of this project is the **second-stage spur gear** in the gearbox. This gear is positioned directly after the pinion gear on the motor shaft and is often the first to show significant wear due to repeated use.
+
+* You should replace this gear if:
+    * The teeth on the gear are visibly worn down or chipped.
+    * The motor produces a "grinding" sound during operation.
+    * The telescope's mount slips or fails to track accurately.
+
+
 <div align="center">
 <img src="imgs/img1.jpg" alt="Celestron geared motor with the target gear highlighted." width="49%">
 <img src="imgs/img2.jpg" alt="Damaged original gear and a 3D-printed resin gear." width="49%">
