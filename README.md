@@ -57,8 +57,8 @@ The design is a two-stage spur gear with the following specifications:
 
 ### Files Included in This Repository
 
-* `Nexstar SLT Gearbox No2 Gear v1.stl`: The 3D model file for printing.
-* `Nexstar SLT Gearbox No2 Gear v1.f3d`: The original Fusion 360 design file for modification.
+* `[NexstarSLTGearbox2ndGear.stl](NexstarSLTGearbox2ndGear.stl)`: The 3D model file for printing.
+* `[NexstarSLTGearbox2ndGear.f3d](NexstarSLTGearbox2ndGear.f3d)`: The original Fusion 360 design file for modification.
 * `LICENSE`: The full text of the TAPR Open Hardware License.
 
 ---
