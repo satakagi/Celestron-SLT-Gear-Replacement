@@ -17,8 +17,9 @@ This design is released under the **[TAPR Open Hardware License](https://tapr.or
 The target of this project is the **second-stage spur gear** in the gearbox. This gear is positioned directly after the pinion gear on the motor shaft and is often the first to show significant wear due to repeated use.
 
 * You should replace this gear if:
-    * The teeth on the gear are visibly worn down or chipped.
+    * The telescope's mount fails to rotate even though the motor can be heard running.
     * The telescope's mount slips or fails to track accurately.
+    * The teeth on the gear are visibly worn down or chipped.
 
 
 <div align="center">
