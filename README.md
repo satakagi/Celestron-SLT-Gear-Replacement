@@ -36,7 +36,7 @@ The target of this project is the **second-stage spur gear** in the gearbox. Thi
 
 Initial prototypes of this gear were successfully printed using an SLA (stereolithography) printer, which confirmed the design's fit and function. However, due to the low durability of typical SLA resins, this material is not recommended for long-term use.
 
-For a durable and functional final product, the recommended material is **MJF PA12 nylon**. This material is known for its excellent mechanical strength, high wear resistance, and toughness, making it ideal for gears.
+For a durable and functional final product, the recommended material is **PA12 nylon using the Multi Jet Fusion (MJF) method**. This material is known for its excellent mechanical strength, high wear resistance, and toughness, making it ideal for gears.
 
 ---
 
