@@ -23,12 +23,15 @@ The target of this project is the **second-stage spur gear** in the gearbox. Thi
 
 
 <div align="center">
-<img src="imgs/img1.jpg" alt="Celestron geared motor with the target gear highlighted." width="49%">
-<img src="imgs/img2.jpg" alt="Damaged original gear and a 3D-printed resin gear." width="49%">
+<img src="imgs/img1.jpg" alt="Celestron geared motor with the target gear highlighted." width="33%">
+<img src="imgs/img2.jpg" alt="Damaged original gear and a 3D-printed resin gear." width="33%">
+<img src="imgs/printedParts.jpg" alt="3D-printed resin gear." width="33%">
+
 </div>
 
-* Left: The replacement gear's location inside the geared motor
-* Right: A damaged original gear and a 3D-printed resin gears
+* Left image: The replacement gear's location inside the geared motor
+* Center image: A damaged original gear and a 3D-printed resin gears
+* Right image: left(gray): resin by SLA,  right(black): PA12 nylon by MJF
 
 ---
 
