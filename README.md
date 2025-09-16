@@ -1,6 +1,6 @@
 # Celestron NexStar SLT Geared Motor Replacement Gear
 
-This project provides a 3D-printable replacement for a specific plastic gear within the **Celestron "SLT-F00-1A"** geared motor, commonly found in NexStar SLT, GT, and 4SE/5SE series telescopes. These motors may be also compatible with mounts from SkyWatcher SynScan AZ and Orion Starseeker III.
+This project provides a 3D-printable replacement for a specific plastic gear within the **Celestron "SLT-F00-1A"** geared motor, commonly found in NexStar SLT, GT, and 4SE/5SE series telescopes. "SLT-F00-1B" may be compatible successor assembly. These motors may be also compatible with mounts from SkyWatcher SynScan AZ and Orion Starseeker III.
 
 The original plastic gear is prone to wear, which often necessitates the full replacement of the geared motor. Since these motors are frequently out of stock, this project offers a durable, self-manufactured solution.
 
